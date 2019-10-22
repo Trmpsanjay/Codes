@@ -1,6 +1,4 @@
 # Codes
-practices
 
 
-tutorial for hacktoberfest
-
+tutorial for hacktoberfe
